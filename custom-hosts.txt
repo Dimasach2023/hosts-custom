@@ -7,7 +7,6 @@
 57.144.245.32 wa.me
 57.144.245.32 api.whatsapp.com
 57.144.245.32 graph.whatsapp.net
-57.144.245.32 dit.whatsapp.net
 57.144.245.32 crashlogs.whatsapp.net
 57.144.245.32 snr.whatsapp.net
 57.144.245.32 dyn.whatsapp.net
