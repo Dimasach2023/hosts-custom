@@ -37,8 +37,13 @@
 57.144.245.32 pps.whatsapp.net
 57.144.245.32 scontent.whatsapp.net
 57.144.245.32 media-hel3-1.cdn.whatsapp.net
+
 157.240.22.35 facebook.com
 157.240.22.35 www.facebook.com
+57.144.222.145 gateway.facebook.com
+
 57.144.244.34 instagram.com
 57.144.244.34 www.instagram.com
+57.144.244.34 graph.instagram.com
+
 96.16.53.163 tr.rbxcdn.com
