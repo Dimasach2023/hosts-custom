@@ -44,3 +44,4 @@
 157.240.9.52 graph.instagram.com
 57.144.222.192 edge-chat.instagram.com
 57.144.222.192 edge-chat.facebook.com
+18.65.39.127 tr.rbxcdn.com
