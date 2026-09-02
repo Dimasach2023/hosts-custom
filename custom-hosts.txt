@@ -45,3 +45,5 @@
 57.144.222.192 edge-chat.instagram.com
 57.144.222.192 edge-chat.facebook.com
 96.16.53.163 tr.rbxcdn.com
+96.16.53.163 trns1.rbxcdn.com
+96.16.53.163 trak.rbxcdn.com
